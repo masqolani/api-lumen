@@ -1,7 +1,7 @@
 # api-lumen
 Create queue in lumen
 # How to created
-- install lumen 
+- Install lumen 
 - Create APP_KEY in http://www.unit-conversion.info/texttools/random-string-generator/ 
 - Composer install / update
 - Add env file QUEUE_DRIVER=database
